@@ -11,9 +11,15 @@
 <a href="https://instagram.com/neefxz_"><img src="https://img.shields.io/badge/INSTAGRAM-%40neefxz__-E1306C?style=flat-square&logo=instagram&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=NEFXmznX&color=06b6d4&style=flat-square&label=PROFILE+VIEWS"/>
 
+<br/><br/>
+
+<img src="nefxxz-status-card.gif" width="440"/>
+
 </div>
 
 <br/>
+
+## About Me
 
 ```
 > whoami
@@ -25,6 +31,8 @@ Creator of XVentory, IcarusX & Nyasha AI
 ```
 
 <br/>
+
+## Featured Projects
 
 <table width="100%">
 <tr>
@@ -107,7 +115,7 @@ AI-driven project built for intelligent automation and assistance.
 
 <img src="https://raw.githubusercontent.com/NEFXmznX/NEFXmznX/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
-<sub>needs one-time GitHub Action setup — see below</sub>
+<sub>needs one-time GitHub Action setup — see earlier message</sub>
 
 </div>
 
